@@ -1,5 +1,4 @@
 # Poker Hand Prediction
-## Data Structures / Algorithms Artifact
 
 ### Narrative
 PokerHandPrediction is a simple TensorFlow ML Agent that takes 5 playing cards, the two cards dealt and the three community cards on flop, that would be present while playing poker. Then it must predict the final hand you will have after the turn and river, which is a 5-card hand from 7 available cards. I originally created this machine learning agent for my Machine Learning course at Southern New Hampshire University.  
